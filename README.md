@@ -52,8 +52,8 @@
 
 1. リポジトリをクローンまたはダウンロード
 ```bash
-git clone [repository-url]
-cd ClipMerge
+git clone https://github.com/tatsuya1970/clipmerge.git
+cd clipmerge
 ```
 
 2. ローカルサーバーで実行
@@ -107,4 +107,4 @@ http://localhost:8000
 
 ---
 
-**ClipMerge** - 簡単で直感的な動画結合ツール 🎬 
+**ClipMerge** - 簡単で直感的な動画結合ツール 🎬
