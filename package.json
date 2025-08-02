@@ -1,0 +1,33 @@
+{
+  "name": "clipmerge",
+  "version": "1.0.0",
+  "description": "A web application for merging multiple video files into one",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "video",
+    "merge",
+    "web",
+    "javascript",
+    "html5",
+    "canvas",
+    "mediarecorder"
+  ],
+  "author": "ClipMerge Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/clipmerge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/clipmerge/issues"
+  },
+  "homepage": "https://github.com/yourusername/clipmerge#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
